@@ -1,0 +1,3 @@
+How to compile player on linux:
+
+/path-to-flex-sdk/bin/mxmlc Player.as -use-network=true
